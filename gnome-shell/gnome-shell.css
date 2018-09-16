@@ -881,7 +881,7 @@ StScrollBar {
   background-image: url("resource:///org/gnome/shell/theme/calendar-today.svg"); }
 
 .calendar-other-month-day {
-  color: rgba(238, 238, 236, 0.15);
+  color: rgba(238, 238, 238, 0.15);
   opacity: 0.5; }
 
 .calendar-week-number {
