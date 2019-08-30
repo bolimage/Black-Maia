@@ -1,5 +1,5 @@
 # Black-Maia
-Gnome 3.32 Shell theme.
+Gnome Shell theme.
 
 <b>SCREENSHOT</b>
 
